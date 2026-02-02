@@ -4,14 +4,6 @@ Insertion Sort is a simple sorting technique.
 It works by taking one element at a time and placing it
 in its correct position in the sorted part of the list.
 
-How it works:
-- Assume the first element is already sorted
-- Take the next element
-- Compare it with elements in the sorted part
-- Shift larger elements to the right
-- Insert the element at the correct position
-- Repeat until the list is sorted
-
 Example:
 Array: [7, 4, 6, 2]
 
