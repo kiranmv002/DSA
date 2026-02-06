@@ -1,33 +1,4 @@
 
-# Binary Search Algorithm
-
-Binary Search is an efficient searching algorithm used to find an element in a **sorted array**.  
-It follows the **divide and conquer** approach by repeatedly dividing the search space into half.
-
----
-
-## How Binary Search Works
-
-Instead of checking elements one by one, Binary Search compares the target element with the middle element of the array.
-
-- If the middle element matches the target, the search ends.
-- If the target is smaller, the search continues in the left half.
-- If the target is larger, the search continues in the right half.
-
-This process continues until the element is found or the search space becomes empty.
-
----
-
-## Algorithm Steps
-
-1. Initialize `low = 0` and `high = n - 1`
-2. Find the middle element using `mid = (low + high) / 2`
-3. If `arr[mid] == key`, the element is found
-4. If `arr[mid] < key`, search the right half
-5. If `arr[mid] > key`, search the left half
-6. Repeat until `low > high`
-
----
 
 ## C Implementation
 
