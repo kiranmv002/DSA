@@ -13,7 +13,7 @@ The repository is organized **day-wise**, with each day focusing on specific DSA
 
 ##  Day-wise Topics Covered
 
-### ✅ Day 1 – Arrays
+## ✅ Day 1 – Arrays
 - Find Maximum and Minimum in an Array
 - Reverse an Array
 
@@ -24,3 +24,24 @@ Concepts:
 
 ---
 
+## Files
+- max_min.cpp
+- reverse_array.cpp
+
+---
+
+## ✅ Day 2 – Searching
+
+## Problems Covered
+1. Linear Search
+2. Binary Search
+
+## Concepts
+- Sequential search
+- Searching in sorted array
+
+## Files
+- linear_search.cpp
+- binary_search.cpp
+
+---
