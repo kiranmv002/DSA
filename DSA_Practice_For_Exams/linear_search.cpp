@@ -33,3 +33,14 @@ Process:
 
 Result:
 Element found at index 2
+
+
+Code :
+
+int linearSearch(int arr[], int n, int key) {
+    for(int i = 0; i < n; i++) {
+        if(arr[i] == key)
+            return i;
+    }
+    return -1;
+}
