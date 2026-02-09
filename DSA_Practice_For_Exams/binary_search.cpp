@@ -1,5 +1,3 @@
-
-
 ## C Implementation
 
 #include <stdio.h>
