@@ -1,0 +1,31 @@
+
+Bubble Sort Algorithm
+
+Bubble Sort is a simple sorting algorithm that compares adjacent elements
+and swaps them if they are in the wrong order.
+
+Steps:
+1. Start from the first element
+2. Compare current element with next element
+3. Swap if the current element is greater
+4. Repeat for all elements
+5. After each pass, the largest element moves to the end
+
+Time Complexity:
+Best Case: O(n)
+Average Case: O(n^2)
+Worst Case: O(n^2)
+
+Space Complexity: O(1)
+
+Note: Bubble Sort is mainly used for learning purposes.
+
+
+void bubbleSort(int arr[], int n) {
+    for(int i = 0; i < n-1; i++) {
+        for(int j = 0; j < n-i-1; j++) {
+            if(arr[j] > arr[j+1])
+                swap(arr[j], arr[j+1]);
+        }
+    }
+}
