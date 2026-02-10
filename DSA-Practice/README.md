@@ -44,3 +44,12 @@ Concepts:
 - Sorting logic
 
 ---
+
+### ✅ Day 4 – Stack
+- Stack implementation using array
+
+Concepts:
+- LIFO (Last In First Out)
+- Push and Pop operations
+
+---
