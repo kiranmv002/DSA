@@ -53,3 +53,12 @@ Concepts:
 - Push and Pop operations
 
 ---
+
+### ✅ Day 5 – Queue
+- Queue implementation using array
+
+Concepts:
+- FIFO (First In First Out)
+- Enqueue and Dequeue operations
+
+---
