@@ -62,3 +62,22 @@ Concepts:
 - Enqueue and Dequeue operations
 
 ---
+
+### ✅ Day 6 – Linked List
+- Singly Linked List traversal
+
+Concepts:
+- Dynamic memory allocation
+- Node creation and traversal
+
+---
+
+### ✅ Day 7 – Recursion
+- Factorial using recursion
+
+Concepts:
+- Recursive calls
+- Base condition
+- Stack memory
+
+---
