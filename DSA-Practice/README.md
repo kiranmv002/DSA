@@ -81,3 +81,24 @@ Concepts:
 - Stack memory
 
 ---
+
+### ✅ Day 8 – Trees
+- Inorder Traversal  
+- Preorder Traversal  
+
+**Concepts:**  
+- Binary Tree structure  
+- Recursive traversal  
+- Left–Root–Right pattern  
+
+---
+
+### ✅ Day 9 – Binary Search Tree (BST)
+- BST Insertion  
+
+**Concepts:**  
+- BST properties  
+- Recursive insertion  
+- Left < Root < Right rule  
+
+---
