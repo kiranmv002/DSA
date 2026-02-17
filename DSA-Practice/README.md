@@ -102,3 +102,15 @@ Concepts:
 - Left < Root < Right rule  
 
 ---
+
+### ✅ Day 10 – Graphs
+- Breadth First Search (BFS)  
+- Depth First Search (DFS)  
+
+**Concepts:**  
+- Adjacency List representation  
+- Queue usage in BFS  
+- Recursion/Stack usage in DFS  
+
+---
+
