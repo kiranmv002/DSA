@@ -114,3 +114,12 @@ Concepts:
 
 ---
 
+### ✅ Day 11 – Recursion (Advanced)
+- Sum of N numbers using recursion  
+
+**Concepts:**  
+- Recursive breakdown  
+- Base case and recursive case  
+- Call stack behavior  
+
+---
