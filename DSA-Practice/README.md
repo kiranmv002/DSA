@@ -123,3 +123,13 @@ Concepts:
 - Call stack behavior  
 
 ---
+
+### ✅ Day 12 – Dynamic Programming
+- Fibonacci using DP  
+
+**Concepts:**  
+- Memoization  
+- Tabulation (Bottom-up approach)  
+- Overlapping subproblems
+
+---
