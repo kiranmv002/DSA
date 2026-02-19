@@ -133,3 +133,11 @@ Concepts:
 - Overlapping subproblems
 
 ---
+
+### ✅ Day 13 – Greedy Algorithms
+- Activity Selection Problem  
+
+**Concepts:**  
+- Greedy choice property  
+- Sorting by finishing time  
+- Local optimal decision making  
