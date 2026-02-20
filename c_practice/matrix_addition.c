@@ -15,6 +15,7 @@ int main() {
         for(int j=0;j<2;j++)
             sum[i][j]=a[i][j]+b[i][j];
 
+
     printf("Sum matrix:\n");
     for(int i=0;i<2;i++){
         for(int j=0;j<2;j++)
