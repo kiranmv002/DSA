@@ -30,5 +30,6 @@ Process:
 Result:
 Element found at index 3
 
+
 Conclusion:
 Examples make it easier to understand the working of searching algorithms.
