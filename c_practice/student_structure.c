@@ -1,4 +1,3 @@
-
 struct Student {
     int roll;
     char name[50];
@@ -13,6 +12,5 @@ int main() {
 
     printf("\nStudent Details:\n");
     printf("Roll: %d\nName: %s\nMarks: %.2f\n", s.roll, s.name, s.marks);
-
     return 0;
 }
