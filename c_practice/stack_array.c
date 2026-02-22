@@ -2,7 +2,7 @@ int stack[SIZE], top = -1;
 
 void push(int value) {
     if (top == SIZE - 1)
-        printf("Stack Overflow\n");
+        printf(" Stack Overflow\n ");
     else {
         stack[++top] = value;
         printf("Pushed %d\n", value);
