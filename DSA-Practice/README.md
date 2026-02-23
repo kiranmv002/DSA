@@ -141,4 +141,15 @@ Concepts:
 **Concepts:**  
 - Greedy choice property  
 - Sorting by finishing time  
-- Local optimal decision making  
+- Local optimal decision making
+
+---
+
+### ✅ Day 14 – Backtracking
+- Subset generation  
+
+**Concepts:**  
+- Decision tree approach  
+- Recursive branching  
+- Exploring all possible solutions  
+
