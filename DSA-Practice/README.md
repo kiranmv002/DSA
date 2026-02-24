@@ -153,3 +153,14 @@ Concepts:
 - Recursive branching  
 - Exploring all possible solutions  
 
+---
+
+### ✅ Day 15 – Bit Manipulation
+- Check Power of Two  
+
+**Concepts:**  
+- Bitwise AND operator  
+- Binary number representation  
+- Efficient bit tricks  
+
+---
