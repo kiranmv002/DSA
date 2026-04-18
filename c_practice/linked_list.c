@@ -3,6 +3,7 @@ struct Node {
     struct Node* next;
 };
 
+
 int main() {
     struct Node *head = NULL, *newNode;
 
@@ -20,4 +21,5 @@ int main() {
     }
 
     return 0;
+
 }
