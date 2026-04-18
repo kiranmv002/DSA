@@ -1,3 +1,4 @@
+
 int main() {
     vector<int> adj[4];
     adj[0] = {1,2};
