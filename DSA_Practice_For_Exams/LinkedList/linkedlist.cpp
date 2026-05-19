@@ -4,9 +4,9 @@ struct Node {
 };
 
 int main() {
-    Node* head = new Node{30, NULL};
-    Node* second = new Node{40, NULL};
-    Node* third = new Node{50, NULL};
+    Node* head = new Node{40, NULL};
+    Node* second = new Node{50, NULL};
+    Node* third = new Node{60, NULL};
 
     head->next = second;
     second->next = third;
