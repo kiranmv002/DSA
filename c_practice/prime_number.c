@@ -1,3 +1,4 @@
+##primenumber
 int main() {
     int n, i, flag = 1;
 
