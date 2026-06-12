@@ -1,3 +1,5 @@
+//matrix addition
+
 int main() {
     int a[2][2], b[2][2], sum[2][2];
 
