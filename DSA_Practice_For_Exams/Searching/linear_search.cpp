@@ -21,13 +21,13 @@ Examples help in understanding how searching algorithms work in real cases.
 
 Example 1: Linear Search
 
-Array: [8, 3, 6, 2, 9]
+Array: [9, 3, 6, 2, 9]
 
 Target: 6
 
 Process:
 - Start from first element
-- 8 → not match
+- 9 → not match
 - 3 → not match
 - 6 → match found
 
