@@ -1,3 +1,5 @@
+//Student Structure
+
 struct Student {
     int roll;
     char name[50];
