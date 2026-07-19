@@ -9,7 +9,9 @@ Steps:
 2. Compare current element with next element
 3. Swap if the current element is greater
 4. Repeat for all elements
-5. After each pass, the largest element moves to end
+5. After each pass, largest element moves to end
+
+
 
 Time Complexity:
 
