@@ -1,3 +1,4 @@
+// Linked List
 struct Node {
     int data;
     struct Node* next;
