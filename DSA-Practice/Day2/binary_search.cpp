@@ -1,3 +1,5 @@
+// Binary Search
+
 int main() {
     int arr[] = {10,20,30,40,50};
     int n = 5, key = 40;
