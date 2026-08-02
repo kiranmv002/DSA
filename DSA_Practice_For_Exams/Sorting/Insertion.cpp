@@ -1,11 +1,11 @@
-"""Insertion Sort Algorithm
+Insertion Sort Algorithm
 
 Insertion Sort is a simple sorting technique.
 It works by taking one element at a time and placing it
 in its correct position in the sorted part of the list.
 
 Example:
-    ```
+```
 Array: [7, 4, 6, 2]
 
 Step 1:
@@ -22,10 +22,10 @@ Insert 2 → [2, 4, 6, 7]
 
 Sorted Array:
 [2, 4, 6, 7]
-```    
-"""
+``` 
     
 Pseudo Code:
+    ```
 InsertionSort(arr):
     for i from 1 to n-1:
         key = arr[i]
@@ -35,7 +35,7 @@ InsertionSort(arr):
             j = j - 1
         arr[j + 1] = key
 
-
+```
 Time Complexity:
 Best Case: O(n)
 Worst Case: O(n²)
