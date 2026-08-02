@@ -1,4 +1,3 @@
-using namespace std;
 
 #define MAX 5
 int st[MAX], top = -1;
