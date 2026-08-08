@@ -1,3 +1,5 @@
+// armstrong number
+
 int main() {
     int n, original, remainder, result = 0, digits = 0;
 
