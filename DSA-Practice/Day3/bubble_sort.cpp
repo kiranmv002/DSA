@@ -1,3 +1,4 @@
+// bubble sort
 int main() {
     int arr[] = {5,1,4,2,8};
     int n = 5;
