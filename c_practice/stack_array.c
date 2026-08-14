@@ -1,3 +1,4 @@
+//Stack array
 int stack[SIZE], top = -1;
 
 void push(int value) {
