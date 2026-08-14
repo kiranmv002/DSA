@@ -1,3 +1,4 @@
+// stack array
 int main() {
     int st[5], top = -1;
 
