@@ -1,4 +1,4 @@
-
+// BFS
 void bfs(int start, vector<int> adj[], int n) {
     vector<bool> visited(n, false);
     queue<int> q;
