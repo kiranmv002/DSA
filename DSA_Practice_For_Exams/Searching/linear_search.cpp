@@ -1,3 +1,4 @@
+//Linear
 Algorithm: Linear Search
 
 Linear Search checks each element one by one
