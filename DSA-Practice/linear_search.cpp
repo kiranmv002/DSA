@@ -1,3 +1,4 @@
+// Linear Search
 int main() {
     int arr[] = {10,20,30,40};
     int n = 4, key = 30;
