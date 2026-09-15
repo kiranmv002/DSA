@@ -1,4 +1,5 @@
-//Count
+//Count digits
+
 int main() {
     int n, count = 0;
 
