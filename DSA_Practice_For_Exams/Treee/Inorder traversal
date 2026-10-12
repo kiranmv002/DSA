@@ -1,4 +1,4 @@
-// Inorder Traversal
+// Inorder Traversal code
 
 struct Node {
     int data;
