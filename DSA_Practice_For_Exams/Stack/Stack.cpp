@@ -1,4 +1,4 @@
-//stack
+//stack code
 #define MAX 5
 int st[MAX], top = -1;
 
